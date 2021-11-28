@@ -42,10 +42,10 @@ Minimum required versions Python: 2.6, 3.0
 
 <a name="Example"><h2>Пример</h2></a>
 *Восстановление секрета группой из 3-х участников* 
-<img src="https://github.com/1i10/ShamirsSecretSharing/blob/master/Examples/1.png" width="700" height="300" />  
+<img src="https://github.com/1i10/ShamirsSecretSharing/blob/main/Examples/1.png" width="700" height="300" />  
   
  *Восстановление секрета группой из 5-ти участников при пороге 4* 
-<img src="https://github.com/1i10/ShamirsSecretSharing/blob/master/Examples/2.png" width="700" height="300" />  
+<img src="https://github.com/1i10/ShamirsSecretSharing/blob/main/Examples/2.png" width="700" height="300" />  
   
  *Попытка восстановления секрета группой из 3-х участников при пороге 5* 
-<img src="https://github.com/1i10/ShamirsSecretSharing/blob/master/Examples/3.png" width="700" height="300" /> 
+<img src="https://github.com/1i10/ShamirsSecretSharing/blob/main/Examples/3.png" width="700" height="300" /> 
